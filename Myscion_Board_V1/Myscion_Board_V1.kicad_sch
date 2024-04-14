@@ -11404,6 +11404,19 @@
 		)
 		(uuid ac5aef12-04e3-4e7c-ab6d-5c5f317e867a)
 	)
+	(text "Myscion \nDynamics"
+		(exclude_from_sim no)
+		(at 57.15 397.51 0)
+		(effects
+			(font
+				(face "Broadway")
+				(size 5.08 5.08)
+				(color 132 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "82b1c5f0-e6c6-409c-a397-39f3ebf581c8")
+	)
 	(global_label "Column16"
 		(shape input)
 		(at 452.12 76.2 90)
@@ -12030,7 +12043,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "006ec8b1-ab2c-4600-bde0-23823dc20e91")
-		(property "Reference" "D62"
+		(property "Reference" "D85"
 			(at 411.48 189.23 0)
 			(effects
 				(font
@@ -12147,7 +12160,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D62")
+					(reference "D85")
 					(unit 1)
 				)
 			)
@@ -12163,7 +12176,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00acc641-45cb-4aeb-b11f-b5c3b89d44f1")
-		(property "Reference" "SW149"
+		(property "Reference" "SW90"
 			(at 586.486 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12254,7 +12267,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW149")
+					(reference "SW90")
 					(unit 1)
 				)
 			)
@@ -12270,7 +12283,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0357f828-4c31-4529-8cdb-05fa8b795f06")
-		(property "Reference" "D84"
+		(property "Reference" "D82"
 			(at 335.28 189.23 0)
 			(effects
 				(font
@@ -12387,7 +12400,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D84")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -12403,7 +12416,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04eda95d-e33f-4588-aea9-a389ad324f0b")
-		(property "Reference" "SW91"
+		(property "Reference" "SW32"
 			(at 434.086 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12494,7 +12507,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW91")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -12510,7 +12523,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "050a6ca3-2f0c-4d53-9742-06e58101f87d")
-		(property "Reference" "SW128"
+		(property "Reference" "SW69"
 			(at 408.686 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12601,7 +12614,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW128")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -12617,7 +12630,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "067fcddd-69e4-47ae-8c36-3dab63b444fc")
-		(property "Reference" "SW81"
+		(property "Reference" "SW10"
 			(at 408.686 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12708,7 +12721,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW81")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -12724,7 +12737,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a82ce57-5c06-4832-a164-48ca077a8bf5")
-		(property "Reference" "SW111"
+		(property "Reference" "SW45"
 			(at 256.286 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12815,7 +12828,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW111")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -12831,7 +12844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ab1148a-ef3a-4123-82e2-7d1f81626979")
-		(property "Reference" "D51"
+		(property "Reference" "D10"
 			(at 411.48 87.63 0)
 			(effects
 				(font
@@ -12948,7 +12961,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D51")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -12964,7 +12977,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d0770c4-d636-420f-b7da-e72c8a5308e5")
-		(property "Reference" "SW95"
+		(property "Reference" "SW36"
 			(at 535.686 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13055,7 +13068,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW95")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -13071,7 +13084,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10b77bf2-6d89-4df3-86b2-06a762544866")
-		(property "Reference" "SW19"
+		(property "Reference" "SW20"
 			(at 129.286 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13162,7 +13175,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW19")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -13178,7 +13191,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "11743a84-5e00-432d-92d6-081587e03b3a")
-		(property "Reference" "SW154"
+		(property "Reference" "SW104"
 			(at 586.486 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13269,7 +13282,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW154")
+					(reference "SW104")
 					(unit 1)
 				)
 			)
@@ -13286,7 +13299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "119369d5-aeb0-47e5-898d-df24820a7ab5")
-		(property "Reference" "SW138"
+		(property "Reference" "SW79"
 			(at 230.886 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13377,7 +13390,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW138")
+					(reference "SW79")
 					(unit 1)
 				)
 			)
@@ -13393,7 +13406,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "13fb8f99-b75a-42e2-a22c-3f413f5b0759")
-		(property "Reference" "SW113"
+		(property "Reference" "SW47"
 			(at 307.086 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13484,7 +13497,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW113")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -13500,7 +13513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "15229a52-2bb8-43e6-af1c-26cc53516d2b")
-		(property "Reference" "SW134"
+		(property "Reference" "SW64"
 			(at 281.686 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13591,7 +13604,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW134")
+					(reference "SW64")
 					(unit 1)
 				)
 			)
@@ -13607,7 +13620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16a4c02e-bcad-48bd-a93c-1aa5c0e0715b")
-		(property "Reference" "D4"
+		(property "Reference" "D38"
 			(at 55.88 138.43 0)
 			(effects
 				(font
@@ -13724,7 +13737,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D4")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -13740,7 +13753,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1865e793-fc7c-4a62-980a-9bf5ed635e9f")
-		(property "Reference" "D13"
+		(property "Reference" "D40"
 			(at 106.68 138.43 0)
 			(effects
 				(font
@@ -13857,7 +13870,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D13")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -13873,7 +13886,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18abceae-9bfe-4c39-99f3-64ab0741137b")
-		(property "Reference" "D52"
+		(property "Reference" "D31"
 			(at 411.48 113.03 0)
 			(effects
 				(font
@@ -13990,7 +14003,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D52")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -14006,7 +14019,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "195d1fa6-8a4a-4db3-9b31-64c63c806f54")
-		(property "Reference" "SW96"
+		(property "Reference" "SW24"
 			(at 230.886 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14097,7 +14110,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW96")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -14113,7 +14126,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1acf5581-9c4c-464f-9858-2b845a3d72e5")
-		(property "Reference" "SW103"
+		(property "Reference" "SW49"
 			(at 357.886 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14204,7 +14217,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW103")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -14220,7 +14233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ef6f705-bb07-49f1-9510-eb5776cbeceb")
-		(property "Reference" "D105"
+		(property "Reference" "D17"
 			(at 55.88 113.03 0)
 			(effects
 				(font
@@ -14337,7 +14350,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D105")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -14353,7 +14366,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f852c65-2704-4464-9d44-fd63a0f26963")
-		(property "Reference" "D47"
+		(property "Reference" "D53"
 			(at 462.28 138.43 0)
 			(effects
 				(font
@@ -14470,7 +14483,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D47")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -14486,7 +14499,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23a03843-1dae-4ce4-9e56-6af5b0f4052a")
-		(property "Reference" "SW8"
+		(property "Reference" "SW38"
 			(at 53.086 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14577,7 +14590,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW8")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -14593,7 +14606,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23b781ce-e339-4c4d-b109-138f2816a435")
-		(property "Reference" "D73"
+		(property "Reference" "D6"
 			(at 309.88 87.63 0)
 			(effects
 				(font
@@ -14710,7 +14723,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D73")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -14726,7 +14739,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2524d609-3c27-4362-9847-3674e838b2c7")
-		(property "Reference" "SW132"
+		(property "Reference" "SW73"
 			(at 510.286 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14817,7 +14830,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW132")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -14833,7 +14846,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25fafef5-ba85-4a90-9974-1c04d4461645")
-		(property "Reference" "D38"
+		(property "Reference" "D14"
 			(at 538.48 87.63 0)
 			(effects
 				(font
@@ -14950,7 +14963,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D38")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -14966,7 +14979,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27ab57e0-9f32-4764-a55f-0ddc43fa444d")
-		(property "Reference" "SW112"
+		(property "Reference" "SW46"
 			(at 281.686 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15057,7 +15070,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW112")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -15073,7 +15086,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27d0f55b-9fe7-4e3a-8ea5-f5029466d658")
-		(property "Reference" "D97"
+		(property "Reference" "D42"
 			(at 182.88 138.43 0)
 			(effects
 				(font
@@ -15190,7 +15203,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D97")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -15206,7 +15219,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28a8a3eb-8f07-47e5-a147-139f7687e46f")
-		(property "Reference" "D16"
+		(property "Reference" "D61"
 			(at 132.08 163.83 0)
 			(effects
 				(font
@@ -15323,7 +15336,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D16")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -15339,7 +15352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29b0074f-64d2-4d4b-92ec-85ab92646b23")
-		(property "Reference" "SW121"
+		(property "Reference" "SW23"
 			(at 205.486 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15430,7 +15443,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW121")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -15446,7 +15459,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a3270f6-9f3f-4ea7-9ea3-ae4cd4d38b72")
-		(property "Reference" "D29"
+		(property "Reference" "D103"
 			(at 563.88 214.63 0)
 			(effects
 				(font
@@ -15563,7 +15576,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D29")
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -15579,7 +15592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2d6f013b-1b45-4149-ad8a-430802df1f35")
-		(property "Reference" "D60"
+		(property "Reference" "D70"
 			(at 436.88 163.83 0)
 			(effects
 				(font
@@ -15696,7 +15709,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D60")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -15712,7 +15725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2fa696a5-db12-4746-809b-965dd9813eea")
-		(property "Reference" "SW77"
+		(property "Reference" "SW6"
 			(at 307.086 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15803,7 +15816,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW77")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -15819,7 +15832,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31d89131-2366-4122-a79f-b93bdda35b14")
-		(property "Reference" "D20"
+		(property "Reference" "D95"
 			(at 182.88 214.63 0)
 			(effects
 				(font
@@ -15936,7 +15949,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D20")
+					(reference "D95")
 					(unit 1)
 				)
 			)
@@ -15952,7 +15965,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31fc9073-25d1-4a51-92dd-47406ee906b0")
-		(property "Reference" "D28"
+		(property "Reference" "D102"
 			(at 513.08 214.63 0)
 			(effects
 				(font
@@ -16069,7 +16082,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D28")
+					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -16085,7 +16098,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "327f271d-9636-4f37-a9d4-446433213df4")
-		(property "Reference" "SW76"
+		(property "Reference" "SW5"
 			(at 281.686 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16176,7 +16189,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW76")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -16192,7 +16205,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "331d9784-4b28-4e0e-9396-028b0364eea7")
-		(property "Reference" "D103"
+		(property "Reference" "D4"
 			(at 233.68 87.63 0)
 			(effects
 				(font
@@ -16309,7 +16322,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D103")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -16325,7 +16338,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "33fb6e5f-2df4-4603-87ab-25e21ed4cc0c")
-		(property "Reference" "SW126"
+		(property "Reference" "SW67"
 			(at 357.886 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16416,7 +16429,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW126")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -16432,7 +16445,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34972ecc-3c10-4d2b-80a8-eeec39390046")
-		(property "Reference" "SW148"
+		(property "Reference" "SW83"
 			(at 357.886 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16523,7 +16536,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW148")
+					(reference "SW83")
 					(unit 1)
 				)
 			)
@@ -16539,7 +16552,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35158f00-7081-488d-90ad-171dbccdeed2")
-		(property "Reference" "SW127"
+		(property "Reference" "SW68"
 			(at 383.286 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16630,7 +16643,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW127")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -16646,7 +16659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "359fdf64-f527-40ad-b90f-cfb49b38ad91")
-		(property "Reference" "D71"
+		(property "Reference" "D28"
 			(at 335.28 113.03 0)
 			(effects
 				(font
@@ -16763,7 +16776,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D71")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -16779,7 +16792,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36102361-83a8-4a08-94ef-ed3019f6b419")
-		(property "Reference" "D49"
+		(property "Reference" "D32"
 			(at 436.88 113.03 0)
 			(effects
 				(font
@@ -16896,7 +16909,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D49")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -16912,7 +16925,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c5ce4d2-268a-4249-b3ef-336a0b8b9714")
-		(property "Reference" "D18"
+		(property "Reference" "D92"
 			(at 106.68 214.63 0)
 			(effects
 				(font
@@ -17029,7 +17042,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D18")
+					(reference "D92")
 					(unit 1)
 				)
 			)
@@ -17045,7 +17058,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d45bbac-69d6-4d0b-8caa-6005cb758a50")
-		(property "Reference" "SW17"
+		(property "Reference" "SW92"
 			(at 103.886 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -17136,7 +17149,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW17")
+					(reference "SW92")
 					(unit 1)
 				)
 			)
@@ -17152,7 +17165,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4341ce92-2f2d-4d63-806b-c8b212985bda")
-		(property "Reference" "D6"
+		(property "Reference" "D75"
 			(at 55.88 189.23 0)
 			(effects
 				(font
@@ -17269,7 +17282,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D6")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -17285,7 +17298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43ab22df-67b3-4913-a90e-1005977f3e00")
-		(property "Reference" "D35"
+		(property "Reference" "D37"
 			(at 589.28 113.03 0)
 			(effects
 				(font
@@ -17402,7 +17415,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D35")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -17418,7 +17431,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "446ac668-30b9-400a-82c6-4d41e5354ae6")
-		(property "Reference" "D92"
+		(property "Reference" "D24"
 			(at 233.68 113.03 0)
 			(effects
 				(font
@@ -17535,7 +17548,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D92")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -17551,7 +17564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44fbeb43-e9a8-403c-b806-fe1cdcfaa89d")
-		(property "Reference" "SW155"
+		(property "Reference" "SW102"
 			(at 510.286 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -17642,7 +17655,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW155")
+					(reference "SW102")
 					(unit 1)
 				)
 			)
@@ -17658,7 +17671,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "457ab8f0-8dc2-4ae1-b3eb-030b1dec9cf9")
-		(property "Reference" "SW139"
+		(property "Reference" "SW84"
 			(at 383.286 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -17749,7 +17762,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW139")
+					(reference "SW84")
 					(unit 1)
 				)
 			)
@@ -17765,7 +17778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4723c3b2-6389-4b29-895a-5b60d24103c0")
-		(property "Reference" "SW92"
+		(property "Reference" "SW33"
 			(at 459.486 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -17856,7 +17869,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW92")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -17872,7 +17885,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48cb61f9-28ec-4e55-8af7-a88eda8e55cf")
-		(property "Reference" "D22"
+		(property "Reference" "D96"
 			(at 208.28 214.63 0)
 			(effects
 				(font
@@ -17989,7 +18002,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D22")
+					(reference "D96")
 					(unit 1)
 				)
 			)
@@ -18005,7 +18018,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4da1954b-9b87-46d7-9af5-41feedf3e031")
-		(property "Reference" "D65"
+		(property "Reference" "D68"
 			(at 386.08 163.83 0)
 			(effects
 				(font
@@ -18122,7 +18135,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D65")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -18138,7 +18151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f793853-7533-4903-a48c-caf78e5d1e24")
-		(property "Reference" "SW150"
+		(property "Reference" "SW97"
 			(at 230.886 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -18229,7 +18242,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW150")
+					(reference "SW97")
 					(unit 1)
 				)
 			)
@@ -18245,7 +18258,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4fecb0f0-9d09-4602-9905-e1fd37e935f0")
-		(property "Reference" "D72"
+		(property "Reference" "D7"
 			(at 335.28 87.63 0)
 			(effects
 				(font
@@ -18362,7 +18375,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D72")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -18378,7 +18391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "502c3987-2b06-4922-be40-66979aaf412b")
-		(property "Reference" "SW118"
+		(property "Reference" "SW3"
 			(at 205.486 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -18469,7 +18482,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW118")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -18485,7 +18498,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "50b3cf56-f177-4dc6-b5fb-8b0de37de069")
-		(property "Reference" "D98"
+		(property "Reference" "D41"
 			(at 157.48 138.43 0)
 			(effects
 				(font
@@ -18602,7 +18615,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D98")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -18618,7 +18631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51015a08-7dc9-4d39-b7e9-27931b112262")
-		(property "Reference" "SW10"
+		(property "Reference" "SW40"
 			(at 103.886 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -18709,7 +18722,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW10")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -18725,7 +18738,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51ce467b-814b-44bc-bb93-39186aa7074a")
-		(property "Reference" "SW80"
+		(property "Reference" "SW9"
 			(at 383.286 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -18816,7 +18829,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW80")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -18832,7 +18845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "529abad5-c02f-4dd0-8364-f2ce85876042")
-		(property "Reference" "SW157"
+		(property "Reference" "SW100"
 			(at 383.286 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -18923,7 +18936,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW157")
+					(reference "SW100")
 					(unit 1)
 				)
 			)
@@ -18939,7 +18952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "535c3581-6ceb-41a4-8827-0e32e17b6a39")
-		(property "Reference" "D61"
+		(property "Reference" "D86"
 			(at 436.88 189.23 0)
 			(effects
 				(font
@@ -19056,7 +19069,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D61")
+					(reference "D86")
 					(unit 1)
 				)
 			)
@@ -19072,7 +19085,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "538b8c66-b04f-4102-b3db-0706576cb5e7")
-		(property "Reference" "SW108"
+		(property "Reference" "SW54"
 			(at 484.886 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -19163,7 +19176,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW108")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -19179,7 +19192,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "588098d0-dde5-45e2-b8ac-f4eb328f64b2")
-		(property "Reference" "D58"
+		(property "Reference" "D71"
 			(at 462.28 163.83 0)
 			(effects
 				(font
@@ -19296,7 +19309,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D58")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -19312,7 +19325,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "58c1e965-86ea-4ba5-8205-51b6dc6b9e4d")
-		(property "Reference" "D63"
+		(property "Reference" "D69"
 			(at 411.48 163.83 0)
 			(effects
 				(font
@@ -19429,7 +19442,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D63")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -19445,7 +19458,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5bdd49ae-6756-45b4-9390-a9e8e4699d72")
-		(property "Reference" "SW156"
+		(property "Reference" "SW103"
 			(at 561.086 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -19536,7 +19549,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW156")
+					(reference "SW103")
 					(unit 1)
 				)
 			)
@@ -19552,7 +19565,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c51dd2d-28d6-41e1-aa5e-ea82a55099e0")
-		(property "Reference" "SW16"
+		(property "Reference" "SW77"
 			(at 103.886 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -19643,7 +19656,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW16")
+					(reference "SW77")
 					(unit 1)
 				)
 			)
@@ -19659,7 +19672,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5dd8c10c-ee8e-4d84-8497-554af98d0cdf")
-		(property "Reference" "D80"
+		(property "Reference" "D26"
 			(at 284.48 113.03 0)
 			(effects
 				(font
@@ -19776,7 +19789,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D80")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -19792,7 +19805,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e5129f6-7717-4655-a973-db01d78461ac")
-		(property "Reference" "D74"
+		(property "Reference" "D49"
 			(at 360.68 138.43 0)
 			(effects
 				(font
@@ -19909,7 +19922,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D74")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -19925,7 +19938,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5eb071d5-efd4-4c69-ba53-0f2e25475928")
-		(property "Reference" "SW151"
+		(property "Reference" "SW98"
 			(at 256.286 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -20016,7 +20029,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW151")
+					(reference "SW98")
 					(unit 1)
 				)
 			)
@@ -20032,7 +20045,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f37b8e2-7722-48f9-8e04-969368eb4e8f")
-		(property "Reference" "SW4"
+		(property "Reference" "SW78"
 			(at 178.816 194.056 0)
 			(do_not_autoplace yes)
 			(effects
@@ -20125,7 +20138,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW4")
+					(reference "SW78")
 					(unit 1)
 				)
 			)
@@ -20141,7 +20154,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f56b5c8-1f3e-44a7-9963-26a328d63899")
-		(property "Reference" "D17"
+		(property "Reference" "D93"
 			(at 132.08 214.63 0)
 			(effects
 				(font
@@ -20258,7 +20271,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D17")
+					(reference "D93")
 					(unit 1)
 				)
 			)
@@ -20274,7 +20287,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61e7c27e-76d1-46e9-8811-6b9554a0789f")
-		(property "Reference" "D24"
+		(property "Reference" "D98"
 			(at 259.08 214.63 0)
 			(effects
 				(font
@@ -20391,7 +20404,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D24")
+					(reference "D98")
 					(unit 1)
 				)
 			)
@@ -20407,7 +20420,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62b480ed-8af5-4045-8d82-a3a9b59efb4e")
-		(property "Reference" "SW84"
+		(property "Reference" "SW13"
 			(at 510.286 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -20498,7 +20511,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW84")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -20514,7 +20527,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62b95da8-09d1-4eaa-8563-1878af2cd23d")
-		(property "Reference" "SW125"
+		(property "Reference" "SW62"
 			(at 230.886 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -20605,7 +20618,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW125")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -20621,7 +20634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67e1dd40-a42b-4665-ac76-1648cbc59767")
-		(property "Reference" "SW75"
+		(property "Reference" "SW4"
 			(at 230.886 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -20712,7 +20725,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW75")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -20728,7 +20741,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a465499-4819-49b6-8383-38303c95c758")
-		(property "Reference" "D76"
+		(property "Reference" "D66"
 			(at 335.28 163.83 0)
 			(effects
 				(font
@@ -20845,7 +20858,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D76")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -20861,7 +20874,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6bc5c6ba-f8b1-42e1-8e3d-65c375cd3687")
-		(property "Reference" "SW78"
+		(property "Reference" "SW7"
 			(at 332.486 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -20952,7 +20965,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW78")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -20968,7 +20981,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6bd90053-3cc8-4dab-ab33-a0c380bf906f")
-		(property "Reference" "SW137"
+		(property "Reference" "SW74"
 			(at 586.486 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -21059,7 +21072,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW137")
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -21075,7 +21088,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c21118d-7425-4225-b2b8-8bc56c58a5e5")
-		(property "Reference" "D95"
+		(property "Reference" "D79"
 			(at 233.68 189.23 0)
 			(effects
 				(font
@@ -21192,7 +21205,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D95")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -21208,7 +21221,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6ef0f0c3-7cb9-43fd-89d2-9715251d4e02")
-		(property "Reference" "D86"
+		(property "Reference" "D80"
 			(at 284.48 189.23 0)
 			(effects
 				(font
@@ -21325,7 +21338,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D86")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -21341,7 +21354,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70f978e7-1d24-4080-8a43-c0d8565e27c9")
-		(property "Reference" "D57"
+		(property "Reference" "D87"
 			(at 462.28 189.23 0)
 			(effects
 				(font
@@ -21458,7 +21471,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D57")
+					(reference "D87")
 					(unit 1)
 				)
 			)
@@ -21474,7 +21487,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "727d3c83-883d-4d66-9eae-2e0ad0c15361")
-		(property "Reference" "D89"
+		(property "Reference" "D63"
 			(at 259.08 163.83 0)
 			(effects
 				(font
@@ -21591,7 +21604,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D89")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -21607,7 +21620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7459df65-297d-472d-a8ed-71bef3b3e12c")
-		(property "Reference" "SW90"
+		(property "Reference" "SW31"
 			(at 408.686 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -21698,7 +21711,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW90")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -21714,7 +21727,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "768cca22-f00d-483f-a6a6-de1a004b55e2")
-		(property "Reference" "D77"
+		(property "Reference" "D48"
 			(at 335.28 138.43 0)
 			(effects
 				(font
@@ -21831,7 +21844,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D77")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -21847,7 +21860,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7721e2d6-21f4-4768-a572-bf48302d2b60")
-		(property "Reference" "SW99"
+		(property "Reference" "SW27"
 			(at 307.086 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -21938,7 +21951,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW99")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -21954,7 +21967,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7abd932a-388a-44d8-a162-d44eaadb6a4e")
-		(property "Reference" "D40"
+		(property "Reference" "D13"
 			(at 513.08 87.63 0)
 			(effects
 				(font
@@ -22071,7 +22084,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D40")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -22087,7 +22100,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7af10b97-3226-40fc-a0ef-faec73d99fdb")
-		(property "Reference" "D67"
+		(property "Reference" "D30"
 			(at 386.08 113.03 0)
 			(effects
 				(font
@@ -22204,7 +22217,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D67")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -22220,7 +22233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b83bce3-02e3-472b-8617-0781c1537d69")
-		(property "Reference" "SW79"
+		(property "Reference" "SW8"
 			(at 357.886 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -22311,7 +22324,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW79")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -22327,7 +22340,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7bacab08-16a5-45ca-89f6-5212a27d004c")
-		(property "Reference" "SW119"
+		(property "Reference" "SW21"
 			(at 154.686 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -22418,7 +22431,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW119")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -22434,7 +22447,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c4e5146-b792-472d-bcd8-ea914bcdaa2e")
-		(property "Reference" "D2"
+		(property "Reference" "D18"
 			(at 81.28 113.03 0)
 			(effects
 				(font
@@ -22551,7 +22564,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D2")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -22567,7 +22580,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c678f03-c30f-4907-9223-88092c5974ba")
-		(property "Reference" "SW97"
+		(property "Reference" "SW25"
 			(at 256.286 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -22658,7 +22671,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW97")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -22674,7 +22687,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8113dbb8-d921-479f-93e2-7ab9d4fd645a")
-		(property "Reference" "SW85"
+		(property "Reference" "SW14"
 			(at 535.686 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -22765,7 +22778,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW85")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -22781,7 +22794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81c69776-ffe2-4a7b-b764-b85bc931ff1d")
-		(property "Reference" "SW143"
+		(property "Reference" "SW88"
 			(at 484.886 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -22872,7 +22885,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW143")
+					(reference "SW88")
 					(unit 1)
 				)
 			)
@@ -22888,7 +22901,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "85cbf366-6d24-4c9b-9793-75400d1f06e2")
-		(property "Reference" "D69"
+		(property "Reference" "D8"
 			(at 360.68 87.63 0)
 			(effects
 				(font
@@ -23005,7 +23018,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D69")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -23021,7 +23034,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8708b769-a942-4325-9b3e-5463792d91bf")
-		(property "Reference" "SW94"
+		(property "Reference" "SW35"
 			(at 510.286 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -23112,7 +23125,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW94")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -23128,7 +23141,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88dbee5d-8614-44ba-af28-b194640e646a")
-		(property "Reference" "SW141"
+		(property "Reference" "SW86"
 			(at 434.086 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -23219,7 +23232,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW141")
+					(reference "SW86")
 					(unit 1)
 				)
 			)
@@ -23235,7 +23248,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88fefad0-827b-4f0d-b03c-7aa961e6312d")
-		(property "Reference" "D15"
+		(property "Reference" "D20"
 			(at 132.08 113.03 0)
 			(effects
 				(font
@@ -23352,7 +23365,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D15")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -23368,7 +23381,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c56a553-0475-4bef-aa6f-762ba6de3c16")
-		(property "Reference" "D85"
+		(property "Reference" "D83"
 			(at 360.68 189.23 0)
 			(effects
 				(font
@@ -23485,7 +23498,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D85")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -23501,7 +23514,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d39535d-7af9-4c00-8ac4-4350fa1c8609")
-		(property "Reference" "D32"
+		(property "Reference" "D74"
 			(at 589.28 163.83 0)
 			(effects
 				(font
@@ -23618,7 +23631,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D32")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -23634,7 +23647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d7714b7-2c5e-4d9e-b3e0-2dcf7a49a8d4")
-		(property "Reference" "SW7"
+		(property "Reference" "SW19"
 			(at 103.886 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -23725,7 +23738,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW7")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -23741,7 +23754,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "911b4283-4154-42ef-810a-ba9d3c793068")
-		(property "Reference" "SW144"
+		(property "Reference" "SW89"
 			(at 510.286 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -23832,7 +23845,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW144")
+					(reference "SW89")
 					(unit 1)
 				)
 			)
@@ -23848,7 +23861,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "91f9c390-2887-40b8-81a4-ffb5a933d427")
-		(property "Reference" "SW110"
+		(property "Reference" "SW56"
 			(at 561.086 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -23939,7 +23952,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW110")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -23955,7 +23968,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94e07b8b-67a8-440c-aa2f-d1a016e5ed78")
-		(property "Reference" "D79"
+		(property "Reference" "D27"
 			(at 309.88 113.03 0)
 			(effects
 				(font
@@ -24072,7 +24085,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D79")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -24088,7 +24101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95f127e5-714a-4516-9cc6-5b3868a817f6")
-		(property "Reference" "SW140"
+		(property "Reference" "SW85"
 			(at 408.686 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -24179,7 +24192,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW140")
+					(reference "SW85")
 					(unit 1)
 				)
 			)
@@ -24195,7 +24208,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "971681d8-9da8-4ef1-a180-f2dec00aa3e7")
-		(property "Reference" "D56"
+		(property "Reference" "D88"
 			(at 487.68 189.23 0)
 			(effects
 				(font
@@ -24312,7 +24325,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D56")
+					(reference "D88")
 					(unit 1)
 				)
 			)
@@ -24328,7 +24341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "97b9212f-ea69-4aec-8ed3-f9e49f9cf29f")
-		(property "Reference" "SW152"
+		(property "Reference" "SW99"
 			(at 281.686 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -24419,7 +24432,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW152")
+					(reference "SW99")
 					(unit 1)
 				)
 			)
@@ -24435,7 +24448,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9824f81d-c0a3-4f71-a07f-a7a62bef5bc9")
-		(property "Reference" "D102"
+		(property "Reference" "D3"
 			(at 208.28 87.63 0)
 			(effects
 				(font
@@ -24552,7 +24565,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D102")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -24568,7 +24581,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "985ad30d-2e4e-4d15-893f-5ab6a52f47eb")
-		(property "Reference" "D10"
+		(property "Reference" "D76"
 			(at 81.28 189.23 0)
 			(effects
 				(font
@@ -24685,7 +24698,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D10")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -24701,7 +24714,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "98e50e1d-2f28-4e24-b452-a7c0bb22ec0f")
-		(property "Reference" "SW3"
+		(property "Reference" "SW96"
 			(at 205.486 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -24792,7 +24805,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW3")
+					(reference "SW96")
 					(unit 1)
 				)
 			)
@@ -24808,7 +24821,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99065950-93f1-4027-b699-9c1e874d705f")
-		(property "Reference" "D34"
+		(property "Reference" "D56"
 			(at 563.88 138.43 0)
 			(effects
 				(font
@@ -24925,7 +24938,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D34")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -24941,7 +24954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99ebb719-f815-4809-89d9-7fc175754300")
-		(property "Reference" "SW123"
+		(property "Reference" "SW42"
 			(at 180.086 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -25032,7 +25045,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW123")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -25048,7 +25061,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b332935-e232-4b0f-aaef-6f8458c7c709")
-		(property "Reference" "SW83"
+		(property "Reference" "SW12"
 			(at 459.486 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -25139,7 +25152,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW83")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -25155,7 +25168,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9cce0c57-9ea4-44d9-a17f-bf1f2755d76a")
-		(property "Reference" "SW146"
+		(property "Reference" "SW81"
 			(at 307.086 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -25246,7 +25259,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW146")
+					(reference "SW81")
 					(unit 1)
 				)
 			)
@@ -25262,7 +25275,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d056527-2497-45a3-a6ac-7ea1cfc5fbca")
-		(property "Reference" "D104"
+		(property "Reference" "D23"
 			(at 208.28 113.03 0)
 			(effects
 				(font
@@ -25379,7 +25392,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D104")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -25395,7 +25408,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d8d6833-429a-4517-a85c-302974b63416")
-		(property "Reference" "SW100"
+		(property "Reference" "SW28"
 			(at 332.486 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -25486,7 +25499,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW100")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -25502,7 +25515,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9df7bd1a-0a1e-462f-ae5a-9400b6fe8ce3")
-		(property "Reference" "D66"
+		(property "Reference" "D50"
 			(at 386.08 138.43 0)
 			(effects
 				(font
@@ -25619,7 +25632,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D66")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -25635,7 +25648,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f8a5cc9-80ed-42cc-a8ff-0ab52fc1bb84")
-		(property "Reference" "SW120"
+		(property "Reference" "SW22"
 			(at 180.086 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -25726,7 +25739,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW120")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -25742,7 +25755,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9fb42f07-9e83-41d7-928d-d06689981fa8")
-		(property "Reference" "D27"
+		(property "Reference" "D101"
 			(at 487.68 214.63 0)
 			(effects
 				(font
@@ -25859,7 +25872,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D27")
+					(reference "D101")
 					(unit 1)
 				)
 			)
@@ -25875,7 +25888,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0e477c9-cf2c-4637-b796-3d8e90d92b47")
-		(property "Reference" "D83"
+		(property "Reference" "D81"
 			(at 309.88 189.23 0)
 			(effects
 				(font
@@ -25992,7 +26005,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D83")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -26008,7 +26021,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a1a34281-2895-4276-9815-3a9b3d492fc4")
-		(property "Reference" "SW88"
+		(property "Reference" "SW29"
 			(at 357.886 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -26099,7 +26112,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW88")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -26115,7 +26128,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a204c973-35b4-4220-918f-4fd896f721a0")
-		(property "Reference" "D64"
+		(property "Reference" "D84"
 			(at 386.08 189.23 0)
 			(effects
 				(font
@@ -26232,7 +26245,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D64")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -26248,7 +26261,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a23e8f1a-0a90-4eb8-81d0-8e4336edb127")
-		(property "Reference" "D101"
+		(property "Reference" "D2"
 			(at 182.88 87.63 0)
 			(effects
 				(font
@@ -26365,7 +26378,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D101")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -26381,7 +26394,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a350d050-686b-42d8-839c-253953fe82fc")
-		(property "Reference" "D12"
+		(property "Reference" "D60"
 			(at 106.68 163.83 0)
 			(effects
 				(font
@@ -26498,7 +26511,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D12")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -26514,7 +26527,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4739fab-bc1e-4399-a032-c214f8df0fd7")
-		(property "Reference" "SW12"
+		(property "Reference" "SW59"
 			(at 78.486 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -26605,7 +26618,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW12")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -26621,7 +26634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4c502fa-9504-445e-b8b8-8506ec196d65")
-		(property "Reference" "SW114"
+		(property "Reference" "SW48"
 			(at 332.486 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -26712,7 +26725,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW114")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -26728,7 +26741,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a6104c9b-afd0-49cf-a376-ad73e9e4cb18")
-		(property "Reference" "D14"
+		(property "Reference" "D19"
 			(at 106.68 113.03 0)
 			(effects
 				(font
@@ -26845,7 +26858,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D14")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -26861,7 +26874,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a61a233f-e839-4830-a270-1e4a4b1fb7c3")
-		(property "Reference" "D30"
+		(property "Reference" "D104"
 			(at 589.28 214.63 0)
 			(effects
 				(font
@@ -26978,7 +26991,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D30")
+					(reference "D104")
 					(unit 1)
 				)
 			)
@@ -26994,7 +27007,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a66f498f-9221-4365-80f7-fa6c266eb7b3")
-		(property "Reference" "D99"
+		(property "Reference" "D21"
 			(at 157.48 113.03 0)
 			(effects
 				(font
@@ -27111,7 +27124,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D99")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -27127,7 +27140,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a9726822-fb7a-4ff8-9ab9-954fd55fee4d")
-		(property "Reference" "D9"
+		(property "Reference" "D59"
 			(at 81.28 163.83 0)
 			(effects
 				(font
@@ -27244,7 +27257,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D9")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -27260,7 +27273,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aa0f048c-faf7-438a-9bea-f413e6c24985")
-		(property "Reference" "SW153"
+		(property "Reference" "SW101"
 			(at 484.886 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -27351,7 +27364,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW153")
+					(reference "SW101")
 					(unit 1)
 				)
 			)
@@ -27367,7 +27380,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "abab1384-4203-4a2a-a8ed-8171ba7cf74e")
-		(property "Reference" "D87"
+		(property "Reference" "D64"
 			(at 284.48 163.83 0)
 			(effects
 				(font
@@ -27484,7 +27497,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D87")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -27500,7 +27513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "abb760b2-bfdc-4779-9aff-7c678abc2045")
-		(property "Reference" "SW136"
+		(property "Reference" "SW66"
 			(at 332.486 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -27591,7 +27604,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW136")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -27607,7 +27620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ace1523e-3832-431e-a8fd-14debdb9e57b")
-		(property "Reference" "SW9"
+		(property "Reference" "SW39"
 			(at 78.486 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -27698,7 +27711,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW9")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -27714,7 +27727,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad0ee975-4579-4fbb-87aa-435e8ab96348")
-		(property "Reference" "SW98"
+		(property "Reference" "SW26"
 			(at 281.686 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -27805,7 +27818,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW98")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -27821,7 +27834,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae525253-e0f0-45a9-ae7d-ccbb5c8c5cc7")
-		(property "Reference" "SW107"
+		(property "Reference" "SW53"
 			(at 459.486 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -27912,7 +27925,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW107")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -27928,7 +27941,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b1341989-cf6c-447a-9a68-305d436b6cc0")
-		(property "Reference" "SW2"
+		(property "Reference" "SW95"
 			(at 180.086 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -28019,7 +28032,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW2")
+					(reference "SW95")
 					(unit 1)
 				)
 			)
@@ -28035,7 +28048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b16561c7-195b-4f08-9b7b-4e5918a8ba81")
-		(property "Reference" "D59"
+		(property "Reference" "D72"
 			(at 487.68 163.83 0)
 			(effects
 				(font
@@ -28152,7 +28165,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D59")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -28168,7 +28181,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2c38681-7c7b-42ca-a8af-1880a810fbd5")
-		(property "Reference" "D78"
+		(property "Reference" "D47"
 			(at 309.88 138.43 0)
 			(effects
 				(font
@@ -28285,7 +28298,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D78")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -28301,7 +28314,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b44abc9e-0c4c-4f20-90c9-6101903c115d")
-		(property "Reference" "D75"
+		(property "Reference" "D67"
 			(at 360.68 163.83 0)
 			(effects
 				(font
@@ -28418,7 +28431,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D75")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -28434,7 +28447,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b644f08e-9583-4ace-b33f-c3d8000a5511")
-		(property "Reference" "SW142"
+		(property "Reference" "SW87"
 			(at 459.486 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -28525,7 +28538,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW142")
+					(reference "SW87")
 					(unit 1)
 				)
 			)
@@ -28541,7 +28554,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7f892f3-3e82-4da9-b7a9-eeb7efdcffc6")
-		(property "Reference" "D82"
+		(property "Reference" "D65"
 			(at 309.88 163.83 0)
 			(effects
 				(font
@@ -28658,7 +28671,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D82")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -28674,7 +28687,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b93d578c-8458-4b87-bc96-71a4a0017e68")
-		(property "Reference" "D31"
+		(property "Reference" "D90"
 			(at 589.28 189.23 0)
 			(effects
 				(font
@@ -28791,7 +28804,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D31")
+					(reference "D90")
 					(unit 1)
 				)
 			)
@@ -28807,7 +28820,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba7b4876-06a4-491b-881e-3a1dcacf79fe")
-		(property "Reference" "D3"
+		(property "Reference" "D39"
 			(at 81.28 138.43 0)
 			(effects
 				(font
@@ -28924,7 +28937,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D3")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -28940,7 +28953,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc8b3668-be1c-4a5e-8f37-72a447c26450")
-		(property "Reference" "D23"
+		(property "Reference" "D97"
 			(at 233.68 214.63 0)
 			(effects
 				(font
@@ -29057,7 +29070,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D23")
+					(reference "D97")
 					(unit 1)
 				)
 			)
@@ -29073,7 +29086,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be11cb08-154b-43d5-8698-1962fc2b35db")
-		(property "Reference" "SW130"
+		(property "Reference" "SW71"
 			(at 459.486 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -29164,7 +29177,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW130")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -29180,7 +29193,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c04137ea-a43c-4c94-8423-8c743e50cb84")
-		(property "Reference" "D48"
+		(property "Reference" "D52"
 			(at 436.88 138.43 0)
 			(effects
 				(font
@@ -29297,7 +29310,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D48")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -29313,7 +29326,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c04e5a53-f774-4b4a-8499-0a781f4b6990")
-		(property "Reference" "D91"
+		(property "Reference" "D25"
 			(at 259.08 113.03 0)
 			(effects
 				(font
@@ -29430,7 +29443,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D91")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -29446,7 +29459,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2f050f3-d505-47dc-8fe4-5e0438c430bc")
-		(property "Reference" "D81"
+		(property "Reference" "D5"
 			(at 284.48 87.63 0)
 			(effects
 				(font
@@ -29563,7 +29576,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D81")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -29579,7 +29592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3a44ba8-d6e9-40a1-8c77-28ea6e334bf5")
-		(property "Reference" "SW133"
+		(property "Reference" "SW63"
 			(at 256.286 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -29670,7 +29683,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW133")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -29686,7 +29699,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4648b59-6e6e-4e30-a3a9-7e08455ea0f8")
-		(property "Reference" "D36"
+		(property "Reference" "D16"
 			(at 589.28 87.63 0)
 			(effects
 				(font
@@ -29803,7 +29816,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D36")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -29819,7 +29832,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4665b61-63c2-4aef-b650-0296ccf461e4")
-		(property "Reference" "SW11"
+		(property "Reference" "SW58"
 			(at 53.086 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -29910,7 +29923,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW11")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -29926,7 +29939,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c55cbab7-c2f6-4b99-ad6d-29fa1e06e318")
-		(property "Reference" "SW145"
+		(property "Reference" "SW80"
 			(at 281.686 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -30017,7 +30030,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW145")
+					(reference "SW80")
 					(unit 1)
 				)
 			)
@@ -30033,7 +30046,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c88888d1-e844-4280-a923-29bd11b55bc8")
-		(property "Reference" "D43"
+		(property "Reference" "D54"
 			(at 487.68 138.43 0)
 			(effects
 				(font
@@ -30150,7 +30163,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D43")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -30166,7 +30179,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c89d2e88-94a7-45b4-a169-98ff012ad8a3")
-		(property "Reference" "SW82"
+		(property "Reference" "SW11"
 			(at 434.086 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -30257,7 +30270,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW82")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -30273,7 +30286,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c9074161-1825-4f2b-a0ac-d2dc41941a49")
-		(property "Reference" "D26"
+		(property "Reference" "D100"
 			(at 386.08 214.63 0)
 			(effects
 				(font
@@ -30390,7 +30403,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D26")
+					(reference "D100")
 					(unit 1)
 				)
 			)
@@ -30406,7 +30419,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c927425c-4a56-4a69-85ab-35d27c40b88e")
-		(property "Reference" "SW86"
+		(property "Reference" "SW15"
 			(at 561.086 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -30497,7 +30510,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW86")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -30513,7 +30526,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c988664a-0abb-4de3-838d-a0da836eb429")
-		(property "Reference" "D8"
+		(property "Reference" "D1"
 			(at 157.48 87.63 0)
 			(effects
 				(font
@@ -30630,7 +30643,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D8")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -30646,7 +30659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cad5263a-e887-4802-9ef0-ada40f99a8e0")
-		(property "Reference" "D42"
+		(property "Reference" "D55"
 			(at 513.08 138.43 0)
 			(effects
 				(font
@@ -30763,7 +30776,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D42")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -30779,7 +30792,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc5f860c-9ec6-45fe-ae44-d6b052ea133e")
-		(property "Reference" "SW89"
+		(property "Reference" "SW30"
 			(at 383.286 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -30870,7 +30883,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW89")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -30886,7 +30899,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cce3860e-c437-44f4-9db4-531b5fa7f341")
-		(property "Reference" "SW117"
+		(property "Reference" "SW2"
 			(at 180.086 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -30977,7 +30990,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW117")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -30993,7 +31006,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cde6a2a0-e53a-4f6a-8b3f-76f18c269f3b")
-		(property "Reference" "SW102"
+		(property "Reference" "SW44"
 			(at 230.886 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -31084,7 +31097,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW102")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -31100,7 +31113,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce225d2e-2f24-4f47-beff-3dff89b4859a")
-		(property "Reference" "D88"
+		(property "Reference" "D46"
 			(at 284.48 138.43 0)
 			(effects
 				(font
@@ -31217,7 +31230,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D88")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -31233,7 +31246,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf35a632-c8d9-404d-8973-17fbd041b504")
-		(property "Reference" "D37"
+		(property "Reference" "D15"
 			(at 563.88 87.63 0)
 			(effects
 				(font
@@ -31350,7 +31363,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D37")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -31366,7 +31379,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d030860f-2990-43c5-a116-c5ea9973c267")
-		(property "Reference" "D44"
+		(property "Reference" "D34"
 			(at 487.68 113.03 0)
 			(effects
 				(font
@@ -31483,7 +31496,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D44")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -31499,7 +31512,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2cce3bf-1f6e-4c39-af44-7b1c8d212d0a")
-		(property "Reference" "D68"
+		(property "Reference" "D9"
 			(at 386.08 87.63 0)
 			(effects
 				(font
@@ -31616,7 +31629,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D68")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -31632,7 +31645,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d315e887-14bc-45f4-b54b-6d326b5749f5")
-		(property "Reference" "D25"
+		(property "Reference" "D99"
 			(at 284.48 214.63 0)
 			(effects
 				(font
@@ -31749,7 +31762,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D25")
+					(reference "D99")
 					(unit 1)
 				)
 			)
@@ -31765,7 +31778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d55aea6f-1ed8-4ad5-b768-a7795e3a97ca")
-		(property "Reference" "SW124"
+		(property "Reference" "SW43"
 			(at 205.486 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -31856,7 +31869,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW124")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -31872,7 +31885,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5f7583a-c6d8-4c5b-b2c9-23faf2c06658")
-		(property "Reference" "D33"
+		(property "Reference" "D57"
 			(at 589.28 138.43 0)
 			(effects
 				(font
@@ -31989,7 +32002,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D33")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -32005,7 +32018,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d60d7d89-1416-4573-8846-673cb159c64a")
-		(property "Reference" "SW1"
+		(property "Reference" "SW94"
 			(at 154.686 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -32096,7 +32109,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW1")
+					(reference "SW94")
 					(unit 1)
 				)
 			)
@@ -32112,7 +32125,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d62af564-3932-4eb0-8574-58460264e6ae")
-		(property "Reference" "SW93"
+		(property "Reference" "SW34"
 			(at 484.886 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -32203,7 +32216,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW93")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -32219,7 +32232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8a5710e-144c-42d1-a7ff-98ac4e7bfc76")
-		(property "Reference" "D41"
+		(property "Reference" "D35"
 			(at 513.08 113.03 0)
 			(effects
 				(font
@@ -32336,7 +32349,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D41")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -32352,7 +32365,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d92ff97c-8ac8-447e-abc8-871d8af509f3")
-		(property "Reference" "D7"
+		(property "Reference" "D91"
 			(at 55.88 214.63 0)
 			(effects
 				(font
@@ -32469,7 +32482,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D7")
+					(reference "D91")
 					(unit 1)
 				)
 			)
@@ -32485,7 +32498,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9731a53-3492-46b4-aec3-a6a21569c9f3")
-		(property "Reference" "SW13"
+		(property "Reference" "SW60"
 			(at 103.886 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -32576,7 +32589,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW13")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -32592,7 +32605,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dada91ac-1ead-46c1-aab0-f3c7bf2482bb")
-		(property "Reference" "SW122"
+		(property "Reference" "SW41"
 			(at 154.686 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -32683,7 +32696,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW122")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -32699,7 +32712,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de434574-70f1-48ae-92eb-41fd918b8cc2")
-		(property "Reference" "D93"
+		(property "Reference" "D44"
 			(at 233.68 138.43 0)
 			(effects
 				(font
@@ -32816,7 +32829,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D93")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -32832,7 +32845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df1b036e-bd8c-4331-ba8d-423a4a2127b7")
-		(property "Reference" "SW5"
+		(property "Reference" "SW17"
 			(at 53.086 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -32923,7 +32936,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW5")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -32939,7 +32952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0c67056-9287-459b-8055-1826181a5064")
-		(property "Reference" "SW14"
+		(property "Reference" "SW75"
 			(at 53.086 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33030,7 +33043,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW14")
+					(reference "SW75")
 					(unit 1)
 				)
 			)
@@ -33046,7 +33059,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e15a7bb9-673f-4fe9-8de6-0f9ead6b7ed7")
-		(property "Reference" "D50"
+		(property "Reference" "D11"
 			(at 436.88 87.63 0)
 			(effects
 				(font
@@ -33163,7 +33176,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D50")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -33179,7 +33192,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1f3f72c-083b-4456-bf50-275144a51a5c")
-		(property "Reference" "SW106"
+		(property "Reference" "SW52"
 			(at 434.086 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33270,7 +33283,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW106")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -33286,7 +33299,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4b1927f-890d-4933-b85a-486fc95aca57")
-		(property "Reference" "SW135"
+		(property "Reference" "SW65"
 			(at 307.086 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33377,7 +33390,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW135")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -33393,7 +33406,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5d61720-0b51-4f4d-8b43-58324ed9db31")
-		(property "Reference" "SW104"
+		(property "Reference" "SW50"
 			(at 383.286 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33484,7 +33497,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW104")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -33500,7 +33513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e631bf08-3007-44c5-8267-467fe230b15c")
-		(property "Reference" "SW101"
+		(property "Reference" "SW37"
 			(at 586.486 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33591,7 +33604,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW101")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -33607,7 +33620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e680a6a4-e4d2-4739-8101-6932f0f7b8a9")
-		(property "Reference" "D45"
+		(property "Reference" "D12"
 			(at 462.28 87.63 0)
 			(effects
 				(font
@@ -33724,7 +33737,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D45")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -33740,7 +33753,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6fe3a97-d0bf-4ecc-8075-565c9725aca2")
-		(property "Reference" "SW131"
+		(property "Reference" "SW72"
 			(at 484.886 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33831,7 +33844,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW131")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -33847,7 +33860,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9c5d590-ef74-49e7-9960-bb5cf381d264")
-		(property "Reference" "SW18"
+		(property "Reference" "SW91"
 			(at 53.086 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -33938,7 +33951,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW18")
+					(reference "SW91")
 					(unit 1)
 				)
 			)
@@ -33954,7 +33967,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ead686da-ab33-4198-99b6-55c8931480f8")
-		(property "Reference" "D55"
+		(property "Reference" "D89"
 			(at 513.08 189.23 0)
 			(effects
 				(font
@@ -34071,7 +34084,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D55")
+					(reference "D89")
 					(unit 1)
 				)
 			)
@@ -34087,7 +34100,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb0d4566-34d5-4771-b36b-80e4b5cc68c2")
-		(property "Reference" "SW147"
+		(property "Reference" "SW82"
 			(at 332.486 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -34178,7 +34191,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW147")
+					(reference "SW82")
 					(unit 1)
 				)
 			)
@@ -34194,7 +34207,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed2b0d14-0617-4f60-b8b5-ce293013ee38")
-		(property "Reference" "SW105"
+		(property "Reference" "SW51"
 			(at 408.686 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -34285,7 +34298,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW105")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -34301,7 +34314,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eeb8926d-4e3e-4649-bb5c-c1a57aca7e22")
-		(property "Reference" "SW6"
+		(property "Reference" "SW18"
 			(at 78.486 119.126 0)
 			(do_not_autoplace yes)
 			(effects
@@ -34392,7 +34405,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW6")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -34408,7 +34421,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eee08b86-c8f1-4657-bbd3-6b3efa3afcbb")
-		(property "Reference" "D94"
+		(property "Reference" "D62"
 			(at 233.68 163.83 0)
 			(effects
 				(font
@@ -34525,7 +34538,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D94")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -34541,7 +34554,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f066c820-f7b5-4fed-beb4-88a565808f49")
-		(property "Reference" "SW15"
+		(property "Reference" "SW76"
 			(at 78.486 195.326 0)
 			(do_not_autoplace yes)
 			(effects
@@ -34632,7 +34645,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW15")
+					(reference "SW76")
 					(unit 1)
 				)
 			)
@@ -34648,7 +34661,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0afbd9c-55c7-4c90-b9e6-cb671b4fc8f0")
-		(property "Reference" "D70"
+		(property "Reference" "D29"
 			(at 360.68 113.03 0)
 			(effects
 				(font
@@ -34765,7 +34778,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D70")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -34781,7 +34794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2ac3141-0d1c-44eb-a6d0-6bea2b3ee8a0")
-		(property "Reference" "D11"
+		(property "Reference" "D77"
 			(at 106.68 189.23 0)
 			(effects
 				(font
@@ -34898,7 +34911,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D11")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -34914,7 +34927,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2eecedd-0d5d-4375-8a60-e9c412380270")
-		(property "Reference" "D39"
+		(property "Reference" "D36"
 			(at 538.48 113.03 0)
 			(effects
 				(font
@@ -35031,7 +35044,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D39")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -35047,7 +35060,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f3571ff1-0591-4bb2-b789-d5aa1a7257d4")
-		(property "Reference" "SW129"
+		(property "Reference" "SW70"
 			(at 434.086 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -35138,7 +35151,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW129")
+					(reference "SW70")
 					(unit 1)
 				)
 			)
@@ -35154,7 +35167,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f49b3cc8-9e4c-4158-ae21-b8b256ee98ff")
-		(property "Reference" "SW109"
+		(property "Reference" "SW55"
 			(at 510.286 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -35245,7 +35258,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW109")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -35261,7 +35274,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4ac9e27-18c6-48ed-832b-6e712183c293")
-		(property "Reference" "D54"
+		(property "Reference" "D73"
 			(at 513.08 163.83 0)
 			(effects
 				(font
@@ -35378,7 +35391,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D54")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -35394,7 +35407,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4c9b054-0760-4e62-a4ca-1c7e48de964e")
-		(property "Reference" "D96"
+		(property "Reference" "D43"
 			(at 208.28 138.43 0)
 			(effects
 				(font
@@ -35511,7 +35524,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D96")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -35527,7 +35540,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4ca9b20-00ca-43fa-8620-84136cf95939")
-		(property "Reference" "D100"
+		(property "Reference" "D22"
 			(at 182.88 113.03 0)
 			(effects
 				(font
@@ -35644,7 +35657,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D100")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -35660,7 +35673,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f6e2f6e8-9fe5-45cb-933f-cd32ffa088ef")
-		(property "Reference" "SW87"
+		(property "Reference" "SW16"
 			(at 586.486 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -35751,7 +35764,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW87")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -35766,7 +35779,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f848468c-12b3-45a1-b227-c86174fd4ad2")
-		(property "Reference" "SW20"
+		(property "Reference" "SW61"
 			(at 129.286 169.926 0)
 			(do_not_autoplace yes)
 			(effects
@@ -35857,7 +35870,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW20")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -35873,7 +35886,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8916e94-5bf9-419b-80d0-40e00a20977a")
-		(property "Reference" "D53"
+		(property "Reference" "D51"
 			(at 411.48 138.43 0)
 			(effects
 				(font
@@ -35990,7 +36003,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D53")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -36005,7 +36018,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8c803a7-9d59-4ba0-80c3-57ee1cd1eb3d")
-		(property "Reference" "SW21"
+		(property "Reference" "SW93"
 			(at 129.286 220.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -36096,7 +36109,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW21")
+					(reference "SW93")
 					(unit 1)
 				)
 			)
@@ -36112,7 +36125,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8e00d3b-aa6e-41d3-9893-d1a6eee896f1")
-		(property "Reference" "D46"
+		(property "Reference" "D33"
 			(at 462.28 113.03 0)
 			(effects
 				(font
@@ -36229,7 +36242,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D46")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -36245,7 +36258,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f90863a1-fd70-4762-b820-85c752df951b")
-		(property "Reference" "D21"
+		(property "Reference" "D78"
 			(at 182.88 189.23 0)
 			(effects
 				(font
@@ -36362,7 +36375,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D21")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -36378,7 +36391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa5e9cec-63ed-497f-b938-70c76caa2b56")
-		(property "Reference" "D90"
+		(property "Reference" "D45"
 			(at 259.08 138.43 0)
 			(effects
 				(font
@@ -36495,7 +36508,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D90")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -36511,7 +36524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa926a36-8795-49b2-8371-bfeaac8097d9")
-		(property "Reference" "D19"
+		(property "Reference" "D94"
 			(at 157.48 214.63 0)
 			(effects
 				(font
@@ -36628,7 +36641,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D19")
+					(reference "D94")
 					(unit 1)
 				)
 			)
@@ -36644,7 +36657,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd29f590-12ee-4489-b010-043eeab6ad18")
-		(property "Reference" "SW116"
+		(property "Reference" "SW1"
 			(at 154.686 93.726 0)
 			(do_not_autoplace yes)
 			(effects
@@ -36735,7 +36748,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW116")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -36751,7 +36764,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ff2c89c7-f3b9-4cb9-8d49-ccb72fb07ddb")
-		(property "Reference" "D5"
+		(property "Reference" "D58"
 			(at 55.88 163.83 0)
 			(effects
 				(font
@@ -36868,7 +36881,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "D5")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -36884,7 +36897,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffbc6a45-5a5d-479a-8fe6-bd2879a65499")
-		(property "Reference" "SW22"
+		(property "Reference" "SW57"
 			(at 586.486 144.526 0)
 			(do_not_autoplace yes)
 			(effects
@@ -36922,7 +36935,7 @@
 			)
 		)
 		(property "Description" "Cherry_MX_1.5U"
-			(at 589.28 154.94 0)
+			(at 590.55 154.94 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -36975,7 +36988,7 @@
 		(instances
 			(project "Myscion_Board_V1"
 				(path "/b668c698-33f3-4b5c-b9df-dc8497f1e0a2"
-					(reference "SW22")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
